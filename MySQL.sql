@@ -1,6 +1,7 @@
 DROP DATABASE IF EXISTS economics_db ;
 CREATE DATABASE economics_db;
 use economics_db;
+ssssssadasdasdasdasdasd
 
 CREATE TABLE teacher 
 (
